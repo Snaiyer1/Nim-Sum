@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".pythonlibs/bin/python3": [
+      {
+        "id": "0f68f354-338d-43e1-89a2-929f4f97c1af",
+        "line": 3,
+        "version": 1,
+        "index": 217
+      }
+    ],
+    "attached_assets/NimSum.py": [
+      {
+        "id": "c4ff6fbd-ed5c-4846-8905-795ae60e0cfd",
+        "line": 40,
+        "version": 971,
+        "index": 981
+      }
+    ]
+  }
+}
