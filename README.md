@@ -23,3 +23,5 @@ Greedy Nim: Players can only take objects from the largest pile.
 
 
 The game is implemented in python.
+
+![Screenshot 2025-02-24 224604](https://github.com/user-attachments/assets/1adc6d5a-90eb-49c6-8010-bc5ebbb50622)
