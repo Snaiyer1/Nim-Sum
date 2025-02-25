@@ -1,4 +1,3 @@
-**Nim **
 
 **Overview**
 
