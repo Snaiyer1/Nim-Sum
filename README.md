@@ -1,7 +1,7 @@
 
 **Overview**
 
-Nim is a mathematical game in which two player take turns removing objects from distinct piles. The goal is to take the last object, although there are other variations too. The numbers are represented in base-2, where nim-sum is computed using XOR operations. Nim is fundamental to the Sprague–Grundy theorem, which generalizes strategies for impartial games.
+Nim is a mathematical game in which two player take turns removing objects from distinct piles. The goal is to take the last object, although there are other variations too. The numbers are represented in base-2, where the nim-sum is computed using XOR operations. Nim is fundamental to the Sprague–Grundy theorem, which generalizes strategies for impartial games.
 
 
 **Rules**
